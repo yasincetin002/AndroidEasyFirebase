@@ -5,7 +5,7 @@ plugins {
 }
 
 def _groupId = 'com.github.yasincetin002'
-def _artifactId = 'firebase-android-sdk'
+def _artifactId = 'AndroidEasyFirebase'
 def _version = "1.0.0"
 
 android {
