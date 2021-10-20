@@ -1,0 +1,3 @@
+rootProject.name = "FirebaseSample"
+include ':app'
+include ':firebasesdk'
